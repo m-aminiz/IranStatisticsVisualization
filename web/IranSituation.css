@@ -1,0 +1,95 @@
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.rtl{
+	direction: rtl;
+    text-align: right;
+}
+
+.textCenter {
+  margin-left: 43%;
+  font-weight: 1000;
+}
+
+.ptextCenter {
+  font-weight: 1000;
+}
+
+.ostan {
+  text-align: center;
+}
+
+.mselect{
+	height: 20%;
+}
+
+.lb-lg {
+  font-size: 20px;
+}
+
+.legend{
+	margin-top: 100px;
+	margin-left: 10px;
+}
+
+.bg-dv {
+    background-image: url('brushed-alum.png');
+    background-size: 400px 400px;
+}
+
+.ag-c4 {
+    background-color: rgb(250, 250, 250);
+    color: rgb(43, 43, 43);
+}
+.ag-c4.ag-bg-opacity-h {
+    background-color: rgba(250, 250, 250, 0.8);
+}
+.ag-c4.ag-bg-opacity-m {
+    background-color: rgba(250, 250, 250, 0.7);
+}
+.ag-c4.ag-bg-opacity-l {
+    background-color: rgba(250, 250, 250, 0.5);
+}
+
+.ag-c5 {
+    background-color: rgb(100, 100, 100);
+    color: rgb(246, 246, 246);
+}
+.ag-c5.ag-bg-opacity-h {
+    background-color: rgba(100, 100, 100, 0.8);
+}
+.ag-c5.ag-bg-opacity-m {
+    background-color: rgba(100, 100, 100, 0.7);
+}
+.ag-c5.ag-bg-opacity-l {
+    background-color: rgba(100, 100, 100, 0.5);
+}
+
+.ag-selected-element {
+    box-shadow: 0 0 10px blue;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.img-div {
+    height: 500px;
+    width: 100%;
+}
+
+.select-div{
+	height: 60px;
+    width: 100%;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
